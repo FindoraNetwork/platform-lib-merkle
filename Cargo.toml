@@ -20,5 +20,5 @@ serde = { version = "1.0.124", features =["derive"] }
 serde_json = "1.0"
 sha2 = "0.10"
 
-cryptohash = { git = "https://github.com/FindoraNetwork/platform-lib-cryptohash", branch = "develop" }
-globutils = { git = "https://github.com/FindoraNetwork/platform-lib-utils", branch = "develop" }
+cryptohash = { git = "https://github.com/FindoraNetwork/platform-lib-cryptohash", branch = "tmp-1" }
+globutils = { git = "https://github.com/FindoraNetwork/platform-lib-utils", branch = "tmp-1" }
